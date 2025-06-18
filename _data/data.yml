@@ -89,8 +89,17 @@ education:
 experiences:
     title: Experiences
     info:
+      - role: Senior Data Architect
+        time: Mar 2025 - Present
+        company: Caylent, Irvine - California (Full Time)
+        details: |
+          Responsible for designing and building AWSome DATA solutions using AWS technology.
+          
+          Caylent is an AWS Premier Tier Partner (top 1% of AWS global partners), and through this strategic partnership, we create AMAZING things for our customers.
+          
+          Talk DATA with me, and let's grow together!
       - role: Associate Director - Data Platform Tech Lead
-        time: Jan 2024 - Present
+        time: Jan 2024 - Mar 2025
         company: BTG Pactual, São Paulo (Full Time)
         details: |
           Responsible for Data Platform used in the whole Data Analytics Team at BTG & Data Mesh Expansion adding more Data Producers and Data Consumers.
@@ -157,7 +166,7 @@ experiences:
             - AWS Lambda
 
       - role: Senior Data Engineer / Data Architect / Data Platform
-        time: Dec 2023 - Present
+        time: Dec 2023 - Mar 2025
         company: Proxify, Sweden (Part Time)
         details: |
           Proxify is an award-winning Swedish tech company matching the world's best tech talent with leading companies.
