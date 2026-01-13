@@ -239,6 +239,12 @@ experiences:
 certifications:
       title: Certifications
       list:
+        - name: AWS Solutions Architect Professional
+          start:
+          end:
+          organization: AWS
+          details: |
+            Earners of this certification have an extensive understanding of designing technical strategies to accomplish specific business goals. They demonstrated the ability to balance best practices and trade-offs based on business context. Badge owners are able to design solutions across multiple platforms and providers.
         - name: AWS Data Analytics Specialty
           start:
           end:
