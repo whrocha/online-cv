@@ -245,6 +245,12 @@ certifications:
           organization: AWS
           details: |
             Earners of this certification have an extensive understanding of designing technical strategies to accomplish specific business goals. They demonstrated the ability to balance best practices and trade-offs based on business context. Badge owners are able to design solutions across multiple platforms and providers.
+        - name: AWS Certified Data Engineer Associate
+          start:
+          end:
+          organization: AWS
+          details: |
+            Earners of this certification have an in-depth understanding of how to use AWS services to implement data pipelines and to monitor, troubleshoot, and optimize cost and performance issues in accordance with best practices. Badge owners have technical expertise to understand the effects of volume, variety, and velocity on data ingestion. They are familiar with transformation, modeling, security, governance, privacy, schema design, and optimal data store design.
         - name: AWS Data Analytics Specialty
           start:
           end:
